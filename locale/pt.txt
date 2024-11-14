@@ -1,0 +1,242 @@
+#: locale=pt
+
+## Action
+
+### PDF
+PopupPDFBehaviour_6FB6D41A_4456_0DAA_4150_E4B5F65A9539.url = files/MASTER%20KITCHEN%20Profile_pt.pdf
+
+### URL
+LinkBehaviour_316A4F67_20E4_3AC0_41A2_2515ADB356D1.source = https://api.whatsapp.com/send?phone=551141281000&text=Master%20Kitchen%20agradece%20seu%20contato,%20deixe%20seu%20recado%20assim%20que%20poss%C3%ADvel%20entraremos%20em%20contato.
+LinkBehaviour_3756FC6F_2124_DEC0_41B0_BC65EFC94451.source = https://api.whatsapp.com/send?phone=551141281000&text=Master%20Kitchen%20agradece%20seu%20contato,%20deixe%20seu%20recado%20assim%20que%20poss%C3%ADvel%20entraremos%20em%20contato.
+LinkBehaviour_5BFF1CDB_4E03_43F6_41BF_560E8C59B4D0.source = https://api.whatsapp.com/send?phone=551141281000&text=Master%20Kitchen%20agradece%20seu%20contato,%20deixe%20seu%20recado%20assim%20que%20poss%C3%ADvel%20entraremos%20em%20contato.
+LinkBehaviour_5BC99C8F_4E03_426F_41D2_B1FEF907484B.source = https://api.whatsapp.com/send?phone=551141281000&text=Master%20Kitchen%20agradece%20seu%20contato,%20deixe%20seu%20recado%20assim%20que%20poss%C3%ADvel%20entraremos%20em%20contato.
+LinkBehaviour_30210990_20EC_265F_41B9_A5C4BE5DE736.source = https://api.whatsapp.com/send?phone=5511990078989&text=Ol%C3%A1,%20Tenho%20Interesse%20no%20Tour%20Virtual!
+LinkBehaviour_5BE63D06_4E03_425E_41CA_B41CC63CDE9E.source = https://api.whatsapp.com/send?phone=5511990078989&text=Ol%C3%A1,%20Tenho%20Interesse%20no%20Tour%20Virtual!
+LinkBehaviour_A6AC3721_B2F0_A912_41E5_676C958C0A8F.source = https://masterkitchen.com.br/
+LinkBehaviour_5BC3FC35_4E03_42B3_41B9_ACF65C9210F5.source = https://masterkitchen.com.br/
+LinkBehaviour_5BF22CC0_4E03_43D1_41C3_766F04525E2A.source = https://www.facebook.com/masterkitchenrefeicoes
+LinkBehaviour_C5BD628E_D19C_08B7_41E4_29B28641784B.source = https://www.facebook.com/masterkitchenrefeicoes
+WebFrame_6FFB0C7E_4F7E_B603_41AD_F367B1D68E70.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+WebFrame_6FFB0C7E_4F7E_B603_41AD_F367B1D68E70_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182
+PopupWebFrameBehaviour_A4FC3926_B2F0_F91E_41E2_B5B1FDBE6BF0.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4430.76735407011!2d-46.557314423834654!3d-23.717916867364103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce43ba0ca17783%3A0x4a66db22209a1a00!2sMaster%20Kitchen%20Refei%C3%A7%C3%B5es%20Coletivas!5e1!3m2!1spt-BR!2sbr!4v1695216995233!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_5BF7FCA2_4E03_4251_41BF_6FD0929FDFE2.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4430.76735407011!2d-46.557314423834654!3d-23.717916867364103!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce43ba0ca17783%3A0x4a66db22209a1a00!2sMaster%20Kitchen%20Refei%C3%A7%C3%B5es%20Coletivas!5e1!3m2!1spt-BR!2sbr!4v1695216995233!5m2!1spt-BR!2sbr
+LinkBehaviour_5BF26CBF_4E03_43AF_41C0_4D2D2D14ECCD.source = https://www.instagram.com/masterkitchenrefeicoes/
+LinkBehaviour_C52B649E_D19C_08D4_41D7_A2F2C750445A.source = https://www.instagram.com/masterkitchenrefeicoes/
+PopupWebFrameBehaviour_5D040916_4E01_4271_41C8_BDB3D396C27E.url = //www.youtube.com/embed/xJH9StzwK6A?v=xJH9StzwK6A
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_52698F58_43F2_A008_41B6_80641E3E48EA.text = Sala Nutricionista
+HotspotPanoramaOverlayTextImage_C159145F_E187_6893_41D9_E375382705D1.text = Via Anchieta 
+
+## Media
+
+### Audio
+audiores_0155CF76_1FB6_671F_417B_F35977AF3CE6.mp3Url = media/audio_0196ACCB_1FB6_6975_4196_A273DFBBCFEF_pt.mp3
+audiores_61BD5B54_43D6_1BBE_4189_5BAA1CDE3D56.mp3Url = media/audio_62B78E2F_43D6_1DEA_41B5_1D550DAE4636_pt.mp3
+audiores_6D5D3EFC_4432_3A6E_41A9_4D9F63D050CB.mp3Url = media/audio_63953867_4436_059A_419A_B568870A4BB7_pt.mp3
+audiores_6D4BEACA_4432_3AAA_41B7_85B17EE5CD02.mp3Url = media/audio_66760190_43D2_06B6_4192_A20A5B32B7D6_pt.mp3
+audiores_6D466C00_4432_3D95_419B_3621D22994C0.mp3Url = media/audio_669A07E3_43D2_0A9B_41C0_566597C4617B_pt.mp3
+audiores_6D493966_4432_079A_4196_27C6F1E14FB4.mp3Url = media/audio_66F38BFA_43D2_1A75_41D0_F167A2AB59E9_pt.mp3
+audiores_6D4E982A_4432_0595_41D0_C9E329A1EC16.mp3Url = media/audio_66FF4689_43D2_0A96_41C9_D5A96C24AC3B_pt.mp3
+audiores_6697BF46_43DE_FB9D_41D0_4D922C26D9D2.mp3Url = media/audio_675F31DA_43DE_06AA_41CD_022481C2C254_pt.mp3
+audiores_6D415D4C_4432_3FAD_41B5_3396D1042940.mp3Url = media/audio_6C334E8A_4432_3AAA_4194_DB2966B48FC9_pt.mp3
+
+### Image
+imlevel_C08258C7_E183_F9F3_41DE_01DCD908D581.url = media/panorama_B164F3E6_A9B0_54CB_41E3_EC252B36667C_HS_xe5y19zm_pt.png
+imlevel_56CF4DF2_43F2_E018_41BA_33220F05A286.url = media/panorama_BE717681_B291_AB13_41D8_818423341C5B_HS_k71pcse7_pt.png
+
+### Title
+panorama_A4E9002E_A871_A1EC_41E3_D39571634624.label = Area de Cortes de Carnes
+panorama_A4EBB4C4_A870_6293_41B6_63E2D7B58D46.label = Carga e Descarga
+panorama_A4E8C090_A870_A2B4_41D9_CB3D4C7F259C.label = Carga e Descarga
+panorama_A4E926F6_A871_EE7F_41D2_91C7288E2192.label = Confeitaria e Dietas
+panorama_BE719102_B291_6916_4172_76C9D9BF70AA.label = Copa
+panorama_A4E90BA0_A871_A694_41DF_1743B30A1D8B.label = Corredor
+panorama_BE7FB69F_B290_AB2F_41E6_2576291A64EC.label = Corredor Estoque
+panorama_BE7FFD73_B290_B9F7_41E1_2455D4C2DAC4.label = Cozinha Central
+panorama_A4E914F6_A871_E27C_41E1_FC589BB469A8.label = Elevador 1º Andar
+panorama_BE717681_B291_AB13_41D8_818423341C5B.label = Elevador Térreo
+panorama_BE71A0CB_B290_E716_41E4_5EB74C2958F7.label = Entrada Recebimento de Mercadorias
+panorama_A4E8AA7C_A870_E66C_41D1_48CD10DE1138.label = Esacada
+panorama_A4E92417_A870_A1BC_41B4_DBE84E6A77B9.label = Escritório
+panorama_BFDBAF18_B293_7931_41D6_A1D3E4C544BD.label = Estoque Central
+panorama_A4EADDB7_A871_A2FC_41CE_7D393CC02F11.label = Estoque Central
+panorama_A4E8A2D2_A870_66B4_41E0_E888A5DF48C3.label = Expedição
+panorama_A4E07534_A877_A3FC_41C6_299AA6565F8D.label = Fachada
+panorama_A4E96618_A870_A1B4_41D5_58AB4AF11D52.label = Hall
+panorama_A4E9185B_A870_E1B5_41E3_484CC4DCD244.label = Hall de Escada
+panorama_BE7E8404_B291_AF12_41A4_C62275877CCD.label = Hall de Escada
+panorama_BE7FC955_B291_5933_41D6_2605E8E78FE0.label = Higienização de Utensílios de Cozinha
+panorama_A4E8EE5D_A870_A1AC_41D3_927B819D40AE.label = Portaria
+panorama_BE7E4673_B291_6BF7_41E5_3828835FC314.label = Pré-Preparo
+panorama_BE7E9F85_B291_D912_41E2_E0943EC15469.label = Pré-Preparo
+panorama_A4E91282_A871_A694_41DD_516CE53B3CC9.label = Recebimento
+panorama_BE7187B7_B290_E97E_41DC_508EB557F780.label = Recebimento de Mercadorias
+panorama_A4E93C7C_A870_A26C_41B4_050A143E2C67.label = Recepção
+panorama_BE7E0D89_B291_5912_41B6_695C1B1A9DC9.label = Refeitório
+panorama_BE71D99E_B290_B931_41DE_153AC33EBF8C.label = Refeitório
+panorama_B164F3E6_A9B0_54CB_41E3_EC252B36667C.label = Vista Aérea
+
+## Skin
+
+### Button
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = 1º ANDAR
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = 1º ANDAR
+Button_5CDFE180_4F38_53FF_41BA_C2AE8CF20676_mobile.label = Baixar Apresentação
+Button_5CDFE180_4F38_53FF_41BA_C2AE8CF20676.label = Baixar Apresentação
+Button_5AB8BF7B_40D3_00DE_41C1_48C8A4A660AA.label = Bar
+Button_5AB8BF7B_40D3_00DE_41C1_48C8A4A660AA_mobile.label = Bar
+Button_5AB88F7B_40D3_00DE_41BD_3AF4ED80C40D.label = Chill Out
+Button_5AB88F7B_40D3_00DE_41BD_3AF4ED80C40D_mobile.label = Chill Out
+Button_5C478B14_4F38_5707_41B7_E567FC5BFF03_mobile.label = Confeitaria e Dietas
+Button_5C478B14_4F38_5707_41B7_E567FC5BFF03.label = Confeitaria e Dietas
+Button_5C47EB13_4F38_5701_41D0_849C58570FD5.label = Copa
+Button_5C47EB13_4F38_5701_41D0_849C58570FD5_mobile.label = Copa
+Button_5CBE4515_4F38_7300_41D1_1CA43C43E7F8.label = Corredor Estoque
+Button_5CBE4515_4F38_7300_41D1_1CA43C43E7F8_mobile.label = Corredor Estoque
+Button_5C1F3376_4F3B_D703_41D1_B5D8230D600A_mobile.label = Cozinha Central
+Button_5C1F3376_4F3B_D703_41D1_B5D8230D600A.label = Cozinha Central
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = ESTOQUE
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = ESTOQUE
+Button_5C461B12_4F38_5703_41A5_2B58A57259CB.label = Escritório Central
+Button_5C461B12_4F38_5703_41A5_2B58A57259CB_mobile.label = Escritório Central
+Button_5CBE8514_4F38_7300_41C7_4C2B003C16FE.label = Estoque  Central
+Button_5CBE8514_4F38_7300_41C7_4C2B003C16FE_mobile.label = Estoque  Central
+Button_5CBEA514_4F38_7300_41C4_E7D746E7D487.label = Estoque Central
+Button_5C1F6376_4F3B_D703_41CC_A886AFB8DA74.label = Estoque Central
+Button_5C1F6376_4F3B_D703_41CC_A886AFB8DA74_mobile.label = Estoque Central
+Button_5CBEA514_4F38_7300_41C4_E7D746E7D487_mobile.label = Estoque Central
+Button_5C1ED376_4F3B_D703_41C6_ED2C0CFAEEDA_mobile.label = Expedição
+Button_5C1ED376_4F3B_D703_41C6_ED2C0CFAEEDA.label = Expedição
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = FOTO AÉREA
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = FOTO AÉREA
+Button_5AD4D3C5_484D_66F7_41B0_FDA562B9B17F.label = Fachada
+Button_5AD4D3C5_484D_66F7_41B0_FDA562B9B17F_mobile.label = Fachada
+Button_58FA3DD4_487D_6295_41B8_3B1E6C1F6007.label = Foto Aérea
+Button_58FA3DD4_487D_6295_41B8_3B1E6C1F6007_mobile.label = Foto Aérea
+Button_5C467B11_4F38_5701_41BD_6ADABBF10640.label = Hall
+Button_5C467B11_4F38_5701_41BD_6ADABBF10640_mobile.label = Hall
+Button_5CDE217F_4F38_5301_41C6_96F7478E4BCD.label = Iniciar Conversa
+Button_5CDE217F_4F38_5301_41C6_96F7478E4BCD_mobile.label = Iniciar Conversa
+Button_5AB87F7A_40D3_00DE_41AA_215C597649E9.label = Lobby
+Button_5AB87F7A_40D3_00DE_41AA_215C597649E9_mobile.label = Lobby
+Button_5CE04DFD_4F38_7300_41CF_9AA175DB4918.label = Lorem Ipsum
+Button_5CE02DFD_4F38_7300_41AC_5CCE35E28CCE.label = Lorem Ipsum
+Button_5CE1FDFE_4F38_7300_41CB_C0EFC8517F56.pressedLabel = Lorem Ipsum
+Button_5C475B14_4F38_5707_41B5_45CB509F3FEC.label = Lorem Ipsum
+Button_5CBF9517_4F38_7300_41BB_8710868B4E0A.label = Lorem Ipsum
+Button_5CBFA517_4F38_7300_41CC_D4157FF5A756.label = Lorem Ipsum
+Button_5CEEAE00_4F38_7100_41CA_772C2B0C9596.label = Lorem Ipsum
+Button_5CE1BDFE_4F38_7300_41AF_930026BA5A6C.label = Lorem Ipsum
+Button_5CE1FDFE_4F38_7300_41CB_C0EFC8517F56.label = Lorem Ipsum
+Button_5CBE2516_4F38_7300_41B3_266EC752AC75.label = Lorem Ipsum
+Button_5CDFA180_4F38_53FF_41B1_A82E7A427261.pressedLabel = Lorem Ipsum
+Button_5CDFA180_4F38_53FF_41B1_A82E7A427261.label = Lorem Ipsum
+Button_5CDF7181_4F38_5301_41D0_9F8175F5BACF.label = Lorem Ipsum
+Button_5CDF2181_4F38_5301_419E_50D4A975C358.label = Lorem Ipsum
+Button_5CEEFE00_4F38_7100_41C4_47D712DA1F96.label = Lorem Ipsum
+Button_5CDCD187_4F38_5301_41D2_1D9369EA7682.label = Lorem Ipsum
+Button_5CDC6188_4F38_530F_416D_D8C2C6CAD624.label = Lorem Ipsum
+Button_5CE17DFF_4F38_7300_41C6_8F855B436216.label = Lorem Ipsum
+Button_5C470B15_4F38_5701_41C8_8315EAA43F47.label = Lorem Ipsum
+Button_5CEEAE00_4F38_7100_41CA_772C2B0C9596_mobile.label = Lorem Ipsum
+Button_5CE1FDFE_4F38_7300_41CB_C0EFC8517F56_mobile.label = Lorem Ipsum
+Button_5CEEFE00_4F38_7100_41C4_47D712DA1F96_mobile.label = Lorem Ipsum
+Button_5CDFA180_4F38_53FF_41B1_A82E7A427261_mobile.label = Lorem Ipsum
+Button_5CE04DFD_4F38_7300_41CF_9AA175DB4918_mobile.label = Lorem Ipsum
+Button_5CE1BDFE_4F38_7300_41AF_930026BA5A6C_mobile.label = Lorem Ipsum
+Button_5CDC6188_4F38_530F_416D_D8C2C6CAD624_mobile.label = Lorem Ipsum
+Button_5CBFA517_4F38_7300_41CC_D4157FF5A756_mobile.label = Lorem Ipsum
+Button_5CDCD187_4F38_5301_41D2_1D9369EA7682_mobile.label = Lorem Ipsum
+Button_5CBE2516_4F38_7300_41B3_266EC752AC75_mobile.label = Lorem Ipsum
+Button_5CDF2181_4F38_5301_419E_50D4A975C358_mobile.label = Lorem Ipsum
+Button_5CBF9517_4F38_7300_41BB_8710868B4E0A_mobile.label = Lorem Ipsum
+Button_5CDF7181_4F38_5301_41D0_9F8175F5BACF_mobile.label = Lorem Ipsum
+Button_5C475B14_4F38_5707_41B5_45CB509F3FEC_mobile.label = Lorem Ipsum
+Button_5CDFA180_4F38_53FF_41B1_A82E7A427261_mobile.pressedLabel = Lorem Ipsum
+Button_5CE1FDFE_4F38_7300_41CB_C0EFC8517F56_mobile.pressedLabel = Lorem Ipsum
+Button_5C470B15_4F38_5701_41C8_8315EAA43F47_mobile.label = Lorem Ipsum
+Button_5CE17DFF_4F38_7300_41C6_8F855B436216_mobile.label = Lorem Ipsum
+Button_5CE02DFD_4F38_7300_41AC_5CCE35E28CCE_mobile.label = Lorem Ipsum
+Button_5CDCF182_4F38_5303_41BA_3B4FB28D5CC6_mobile.label = Lorem ipsum
+Button_5CE13DFF_4F38_7300_4168_8B08D53E7557.label = Lorem ipsum
+Button_5C47BB14_4F38_5707_41C5_004237DF4BC7.label = Lorem ipsum
+Button_5CE13DFF_4F38_7300_4168_8B08D53E7557_mobile.label = Lorem ipsum
+Button_5CDCF182_4F38_5303_41BA_3B4FB28D5CC6.label = Lorem ipsum
+Button_5C47BB14_4F38_5707_41C5_004237DF4BC7_mobile.label = Lorem ipsum
+Button_5CBFF516_4F38_7300_41C0_01CB82BCD11E.label = Lorem ipsum
+Button_5CBFF516_4F38_7300_41C0_01CB82BCD11E_mobile.label = Lorem ipsum
+Button_5AB85F7B_40D3_00DE_41A0_52785BEFA815_mobile.label = Meeting Area 1
+Button_5AB85F7B_40D3_00DE_41A0_52785BEFA815.label = Meeting Area 1
+Button_5AB8AF7B_40D3_00DE_41CD_E4BAA6CA3ED1.label = Meeting Area 2
+Button_5AB8AF7B_40D3_00DE_41CD_E4BAA6CA3ED1_mobile.label = Meeting Area 2
+Button_5C1E8374_4F3B_D707_41C8_C8242B461C37_mobile.label = Portaria
+Button_5C1E8374_4F3B_D707_41C8_C8242B461C37.label = Portaria
+Button_5CBE1515_4F38_7300_41B8_0BE61EE2A2AC.label = Recebimento de Mercadorias
+Button_5C1FB377_4F3B_D701_41B8_31B63BB846ED_mobile.label = Recebimento de Mercadorias
+Button_5C1FB377_4F3B_D701_41B8_31B63BB846ED.label = Recebimento de Mercadorias
+Button_5CBE1515_4F38_7300_41B8_0BE61EE2A2AC_mobile.label = Recebimento de Mercadorias
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1.pressedLabel = Reception
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1_mobile.label = Reception
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1_mobile.pressedLabel = Reception
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1.label = Reception
+Button_5C1EE375_4F3B_D701_41C9_0ED79D773CB5_mobile.label = Recepção
+Button_5C1EE375_4F3B_D701_41C9_0ED79D773CB5.label = Recepção
+Button_5C463B13_4F38_5701_41D3_7F808639BD58_mobile.label = Refeitório
+Button_5C463B13_4F38_5701_41D3_7F808639BD58.label = Refeitório
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB.label = SOLICITAR UMA PROPOSTA
+Button_1D0C50DE_2D07_C6AD_41C1_CF4547A6CFAB_mobile.label = SOLICITAR UMA PROPOSTA
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = SWIMMING POOL >
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = SWIMMING POOL >
+Button_6ECE1198_4F7D_CE0F_41D1_D607B97BA20A.label = Saiba Mais
+Button_6ECE1198_4F7D_CE0F_41D1_D607B97BA20A_mobile.label = Saiba Mais
+Button_5AB89F7B_40D3_00DE_41CB_5B6BD4AD03BA_mobile.label = Terrace
+Button_5AB89F7B_40D3_00DE_41CB_5B6BD4AD03BA.label = Terrace
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410.label = TÉRREO
+Button_5B1F16A9_4F08_3101_41C0_148FE9D83410_mobile.label = TÉRREO
+Button_5C1F4377_4F3B_D701_41C6_00BBE5EF20C9_mobile.label = Área de Corte de Carnes
+Button_5C1F4377_4F3B_D701_41C6_00BBE5EF20C9.label = Área de Corte de Carnes
+
+### Image
+Image_17520AC5_57D1_805F_41CD_E7281C08A967_mobile.url = skin/Image_17520AC5_57D1_805F_41CD_E7281C08A967_mobile_pt.jpg
+Image_17520AC5_57D1_805F_41CD_E7281C08A967.url = skin/Image_17520AC5_57D1_805F_41CD_E7281C08A967_pt.jpg
+Image_17529AC5_57D1_805F_41BD_C64BF1F259C6_mobile.url = skin/Image_17529AC5_57D1_805F_41BD_C64BF1F259C6_mobile_pt.jpg
+Image_17529AC5_57D1_805F_41BD_C64BF1F259C6.url = skin/Image_17529AC5_57D1_805F_41BD_C64BF1F259C6_pt.jpg
+Image_30601C4C_20DC_5EC0_41B4_6DB6C5F8D51D_mobile.url = skin/Image_30601C4C_20DC_5EC0_41B4_6DB6C5F8D51D_mobile_pt.png
+Image_30601C4C_20DC_5EC0_41B4_6DB6C5F8D51D.url = skin/Image_30601C4C_20DC_5EC0_41B4_6DB6C5F8D51D_pt.png
+Image_6ECE6198_4F7D_CE0F_41B0_5E88CBDCBBB2_mobile.url = skin/Image_6ECE6198_4F7D_CE0F_41B0_5E88CBDCBBB2_mobile_pt.jpg
+Image_6ECE6198_4F7D_CE0F_41B0_5E88CBDCBBB2.url = skin/Image_6ECE6198_4F7D_CE0F_41B0_5E88CBDCBBB2_pt.jpg
+Image_A3468A83_B297_5B17_41B4_423284ACCF80_mobile.url = skin/Image_A3468A83_B297_5B17_41B4_423284ACCF80_mobile_pt.png
+Image_A3468A83_B297_5B17_41B4_423284ACCF80.url = skin/Image_A3468A83_B297_5B17_41B4_423284ACCF80_pt.png
+Image_C2E50ABA_D184_18DF_41D8_A269A315C5D1_mobile.url = skin/Image_C2E50ABA_D184_18DF_41D8_A269A315C5D1_mobile_pt.png
+Image_C2E50ABA_D184_18DF_41D8_A269A315C5D1.url = skin/Image_C2E50ABA_D184_18DF_41D8_A269A315C5D1_pt.png
+Image_C39CF58F_D184_08B4_41E2_58C83E70CF7B_mobile.url = skin/Image_C39CF58F_D184_08B4_41E2_58C83E70CF7B_mobile_pt.png
+Image_C39CF58F_D184_08B4_41E2_58C83E70CF7B.url = skin/Image_C39CF58F_D184_08B4_41E2_58C83E70CF7B_pt.png
+Image_C69B9430_D18C_0FEB_41C2_4EBBF8C1A05B_mobile.url = skin/Image_C69B9430_D18C_0FEB_41C2_4EBBF8C1A05B_mobile_pt.png
+Image_C69B9430_D18C_0FEB_41C2_4EBBF8C1A05B.url = skin/Image_C69B9430_D18C_0FEB_41C2_4EBBF8C1A05B_pt.png
+
+### Label
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = DOLOR SIT AMET, CONSECTETUR
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = DOLOR SIT AMET, CONSECTETUR
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = LOREM IPSUM
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = LOREM IPSUM
+
+### Multiline Text
+HTMLText_6ECE2198_4F7D_CE0F_41C1_6D512C0D0B76_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.089999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:8.09vmin;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8251366120218573vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.83vmin;word-break:break-word;font-family:'Oswald';"><B><I>O assunto é Master, a qualidade é Kitchen!</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:2.3vmin;word-break:break-word;font-family:'Oswald';"><B>A história de uma família de sucesso!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.77vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">A história da Master Kitchen começou em 1985 na cidade de São Bernardo quando a fundadoras Josephina Bernardes e suas filhas adquiriram a Casa de Massas Vergueiro, uma pequena rotisserie.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">Devido ao sucesso da rotisserie, muitas empresas da região queriam as deliciosas refeições para os seus colaboradores, com o crescimento deste modelo de negócio as sócias decidiram focar no mercado de refeições para empresas mudando o nome “Casa de Massas Vergueiro” para Master Kitchen Alimentação Industrial.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">Nos anos seguintes a empresa começou a se expandir, se mudou para um novo imóvel com a possibilidade de atendimento mais eficiente para as empresas, os anos passaram e a cada ano a empresa conquistava novos clientes até que em 2003 as sócias iniciaram a construção da atual sede da empresa seguindo todas as normas e com a capacidade de produção dimensionada para o sucesso que a empresa alcançava a cada ano.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">No ano de 2005 ao termino da construção, a Master Kitchen se mudou para o atual prédio com uma área fabril bem dimensionada para o crescimento. Com o passar do tempo e sempre em busca de melhorias para seus clientes a empresa decidiu realizar o processo de certificação ISO 9001:2001 na época sendo uma das únicas empresas no mercado que possuíam tal certificação.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">Os anos se passaram e a Master Kitchen se tornou uma das empresas mais respeitadas no mercado de refeições coletivas do estado de São Paulo, sem perder as suas raízes, somos gente que gosta de gente, temos mão na massa, somos simples e inovadores, colocamos sempre o cliente em primeiro lugar.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.62vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_6ECE2198_4F7D_CE0F_41C1_6D512C0D0B76.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.089999999999998vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:8.09vmin;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.8251366120218573vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.83vmin;word-break:break-word;font-family:'Oswald';"><B><I>O assunto é Master, a qualidade é Kitchen!</I></B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.83vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff6600;font-size:2.3vmin;word-break:break-word;font-family:'Oswald';"><B>A história de uma família de sucesso!</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.77vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">A história da Master Kitchen começou em 1985 na cidade de São Bernardo quando a fundadoras Josephina Bernardes e suas filhas adquiriram a Casa de Massas Vergueiro, uma pequena rotisserie.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">Devido ao sucesso da rotisserie, muitas empresas da região queriam as deliciosas refeições para os seus colaboradores, com o crescimento deste modelo de negócio as sócias decidiram focar no mercado de refeições para empresas mudando o nome “Casa de Massas Vergueiro” para Master Kitchen Alimentação Industrial.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">Nos anos seguintes a empresa começou a se expandir, se mudou para um novo imóvel com a possibilidade de atendimento mais eficiente para as empresas, os anos passaram e a cada ano a empresa conquistava novos clientes até que em 2003 as sócias iniciaram a construção da atual sede da empresa seguindo todas as normas e com a capacidade de produção dimensionada para o sucesso que a empresa alcançava a cada ano.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">No ano de 2005 ao termino da construção, a Master Kitchen se mudou para o atual prédio com uma área fabril bem dimensionada para o crescimento. Com o passar do tempo e sempre em busca de melhorias para seus clientes a empresa decidiu realizar o processo de certificação ISO 9001:2001 na época sendo uma das únicas empresas no mercado que possuíam tal certificação.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.31vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">Os anos se passaram e a Master Kitchen se tornou uma das empresas mais respeitadas no mercado de refeições coletivas do estado de São Paulo, sem perder as suas raízes, somos gente que gosta de gente, temos mão na massa, somos simples e inovadores, colocamos sempre o cliente em primeiro lugar.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.3vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.62vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_17528AC5_57D1_805F_41CC_502F9EE91657.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.5099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.51vmin;word-break:break-word;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;word-break:break-word;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.75vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;word-break:break-word;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;word-break:break-word;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;word-break:break-word;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.77vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.77vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.77vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_17528AC5_57D1_805F_41CC_502F9EE91657_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.5099999999999985vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:2.51vmin;word-break:break-word;font-family:'Oswald';"><B><I>JOHN DOE</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.3vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.3vmin;word-break:break-word;font-family:'Oswald';"><I>Licensed Real Estate Salesperson</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.75vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;word-break:break-word;font-family:'Oswald';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;word-break:break-word;font-family:'Oswald';"><I>jhondoe@realestate.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:2.1899999999999995vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#999999;font-size:2.19vmin;word-break:break-word;font-family:'Oswald';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:0.77vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.77vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:0.77vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.77vmin;word-break:break-word;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.310000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.31vmin;word-break:break-word;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV></div>
+HTMLText_1752BAC5_57D1_805F_41C3_4D3FE0C946A5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.420000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.42vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.919999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;word-break:break-word;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.919999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;word-break:break-word;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_1752BAC5_57D1_805F_41C3_4D3FE0C946A5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.420000000000002vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:8.42vh;word-break:break-word;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.919999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;word-break:break-word;font-family:'Oswald';"><B><I>LOREM IPSUM</I></B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:4.919999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.92vh;word-break:break-word;font-family:'Oswald';"><B><I>DOLOR SIT AMET</I></B></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;word-break:break-word;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;word-break:break-word;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+tour.description = Conheça Nosso Espaço em um Tour Virtual
+
+### Title
+tour.name = Master Kitchen Refeições Coletivas
